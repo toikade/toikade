@@ -1,7 +1,7 @@
 - Hello I'm Aaron toikade
 - I'm interested in software programming and fullstack web development in particular.
 - I have a proper mastery of front-end web development technologies such as HTML5, CSS3, ES6 and variety of libraries and frameworks such as;
-- LESS, SASS, SCSS, ReactJS, VueJS.
+- LESS, SASS, ReactJS, VueJS.
 - I also have experience with backend languages and tools such as Python and NodeJs
 - I am proficient using SQL databases such as SQLite, postgresql, Mysql and NoSQL databases such as MongoDb
 - I’m currently learning React Native and Flutter
